@@ -1,0 +1,3 @@
+[submodule "my-webpack-app"]
+	path = my-webpack-app
+	url = ./my-webpack-app
